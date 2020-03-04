@@ -224,5 +224,21 @@ Allowing indexing of your  social media page reveals some important more informa
 - DON'T. They are very unsecure, but if you really need to use a VPN like **NordVPN** or **PIA (Private Internet Access)**
 - https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/
 
+# Banking Credentials
+If your banking credentials got compromised and a victim identity theft.
+
+- Call bank and ask for a new card, put a note and inform them about the incident.
+
+- File a police report right away.
+
+- Change password and use the newly created bank email.
+
+- Enable Two Factor (2FA).
+
+- Set unique security questions and answers.
+
 ## Enable Credit Card Monitoring
-- https://www.creditcardscanada.ca/education-centre/fraud-identity-theft/pay-use-credit-monitoring-services/
+https://www.winknews.com/2020/02/12/freezing-your-credit-report-can-help-protect-your-money-and-credit/
+
+## Credit Freeze
+https://www.creditcardscanada.ca/education-centre/fraud-identity-theft/pay-use-credit-monitoring-services/
