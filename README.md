@@ -225,9 +225,9 @@ Allowing indexing of your  social media page reveals some important more informa
 - https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/
 
 ## Banking Credentials
-If your banking credentials got compromised and a victim identity theft.
+If your banking credentials got compromised and identity is stolen.
 
-- Call bank and ask for a new card, put a note and inform them about the incident.
+- Visit the bank and ask for a new card, put a note and inform them about the incident.
 
 - File a police report right away.
 
