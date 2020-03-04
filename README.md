@@ -1,3 +1,7 @@
+---
+layout: jekyll-theme-cayman
+---
+<body>
 # How to secure your accounts after you got compromised.
 
 “What to do when you are compromised and got your account back. Assume all your devices are still compromised and key logged. These steps are post-compromise for regular average users.”
@@ -224,3 +228,4 @@ Allowing indexing of your  social media page reveals some important more informa
 
 ## Enable Credit Card Monitoring
 - https://www.creditcardscanada.ca/education-centre/fraud-identity-theft/pay-use-credit-monitoring-services/
+</body>
