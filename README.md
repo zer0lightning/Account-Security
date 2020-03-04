@@ -46,6 +46,8 @@ Run a malware scan.
 
 - **Malwarebytes**: https://www.malwarebytes.com/mwb-download/
 
+- **Malwarebytes Anti-Rootkit BETA**: https://www.malwarebytes.com/antirootkit/
+
 Install paid Antivirus with Total Security.
 
 - **Bitdefender Total Security 2020**: https://www.bitdefender.com/solutions/total-security.html
