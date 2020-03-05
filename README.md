@@ -39,7 +39,8 @@
 - Purchase a Yubikey Multifactor Authentication Device.
 
 - Enable 2 Factor:  [https://finance.yahoo.com/news/a-cheat-sheet-for-securing-your-accounts-with-two-step-94483496354.html](https://finance.yahoo.com/news/a-cheat-sheet-for-securing-your-accounts-with-two-step-94483496354.html)
-#### Malware Scan
+
+### Malware Scan
 
 Run a malware scan.
 
